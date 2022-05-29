@@ -4,12 +4,17 @@
   "description": "Darker version of Tokyo Night Dark",
   "version": "0.1.0",
   "publisher": "drewxs",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.67.0"
   },
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/kito0/tokyo-night-dark"
+  },
+  "bugs": {
+    "url": "https://github.com/kito0/tokyo-night-dark/issues"
   },
   "categories": [
     "Themes"
@@ -28,5 +33,9 @@
         "path": "./themes/tokyo-night-dark-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
   }
 }
