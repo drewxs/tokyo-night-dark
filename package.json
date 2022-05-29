@@ -1,0 +1,22 @@
+{
+  "name": "tokyo-night-dark",
+  "displayName": "Tokyo Night Dark",
+  "description": "Darker version of Tokyo Night Dark",
+  "version": "0.0.1",
+  "publisher": "drewxs",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Night Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night-dark-color-theme.json"
+      }
+    ]
+  }
+}
