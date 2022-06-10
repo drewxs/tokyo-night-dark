@@ -2,7 +2,7 @@
   "name": "tokyo-night-dark",
   "displayName": "Tokyo Night Dark",
   "description": "Darker version of Tokyo Night Dark",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "publisher": "drewxs",
   "license": "MIT",
   "engines": {
@@ -36,6 +36,10 @@
   },
   "scripts": {
     "package": "vsce package",
-    "publish": "vsce publish"
+    "publish": "vsce publish",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
   }
 }
