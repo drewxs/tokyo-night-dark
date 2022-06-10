@@ -8,14 +8,9 @@
 
 Darker version of the tokyo night theme with slightly more desaturated syntax highlighting.
 
-<br>
-
 ## Screenshots
 
-Tokyo Night Horizon
-![Screenshot - Tokyo Night Horizon](https://raw.githubusercontent.com/kito0/tokyo-night-dark/master/static/ss_tokyo_night_dark.png)
-
-<br>
+![Screenshot - Tokyo Night Dark](https://raw.githubusercontent.com/kito0/tokyo-night-dark/master/static/ss_tokyo_night_dark.png)
 
 ## Original Theme
 
